@@ -1,6 +1,6 @@
 Name:		texlive-ecgdraw
 Version:	41617
-Release:	1
+Release:	2
 Summary:	Draws electrocardiograms (ECG)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ecgdraw
