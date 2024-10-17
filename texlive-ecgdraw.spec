@@ -3,7 +3,7 @@ Version:	41617
 Release:	2
 Summary:	Draws electrocardiograms (ECG)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ecgdraw
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ecgdraw
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ecgdraw.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ecgdraw.doc.r%{version}.tar.xz
